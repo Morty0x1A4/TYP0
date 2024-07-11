@@ -1,0 +1,222 @@
+Played;6/7/2024 4:09:05 PM
+Letter;i;Count;1;Finger;right RingFinger
+Letter;n;Count;1;Finger;right Pinky
+Letter;e;Count;1;Finger;left MiddleFinger
+Letter;s;Count;1;Finger;left RingFinger
+Letter;c;Count;1;Finger;left MiddleFinger
+Letter;u;Count;1;Finger;right Pinky
+Word;skink;Count;2
+Word;mastered;Count;1
+Word;clay;Count;1
+Word;overfocusing;Count;2
+cpm;240;wpm;48;correctChars;120;wrongChars;6
+Played;6/7/2024 8:38:37 PM
+Letter;s;Count;1;Finger;left RingFinger
+Letter;m;Count;1;Finger;right Pinky
+Letter;u;Count;1;Finger;right Pinky
+Letter;a;Count;1;Finger;left Pinky
+Letter;n;Count;1;Finger;right Pinky
+Letter;g;Count;1;Finger;left IndexFinger
+Letter;o;Count;1;Finger;right MiddleFinger
+Letter;e;Count;1;Finger;left MiddleFinger
+Word;symbolizers;Count;3
+Word;menacing;Count;1
+Word;fissipeds;Count;4
+cpm;240;wpm;48;correctChars;120;wrongChars;8
+Played;6/7/2024 8:39:13 PM
+Letter;o;Count;2;Finger;right MiddleFinger
+Letter;e;Count;1;Finger;left MiddleFinger
+Letter;r;Count;2;Finger;left IndexFinger
+Letter;t;Count;1;Finger;left IndexFinger
+Letter;i;Count;3;Finger;right RingFinger
+Letter;p;Count;1;Finger;right IndexFinger
+Letter;v;Count;1;Finger;left IndexFinger
+Letter;a;Count;2;Finger;left Pinky
+Letter;f;Count;1;Finger;left IndexFinger
+Word;poeticized;Count;2
+Word;antitakeover;Count;7
+Word;interrelate;Count;2
+Word;aestivating;Count;1
+Word;disemploying;Count;2
+cpm;228;wpm;45;correctChars;114;wrongChars;14
+Played;6/7/2024 8:43:13 PM
+Letter;n;Count;2;Finger;right Pinky
+Letter;e;Count;3;Finger;left MiddleFinger
+Letter;r;Count;2;Finger;left IndexFinger
+Letter;o;Count;1;Finger;right MiddleFinger
+Letter;b;Count;1;Finger;left IndexFinger
+Letter;a;Count;2;Finger;left Pinky
+Letter;i;Count;1;Finger;right RingFinger
+Letter;s;Count;1;Finger;left RingFinger
+Letter;t;Count;1;Finger;left IndexFinger
+Letter;l;Count;1;Finger;right MiddleFinger
+Letter; ;Count;1;Finger;Thumbs
+Letter;m;Count;1;Finger;right Pinky
+Word;brinier;Count;6
+Word;xanthan;Count;2
+Word;entrusting;Count;3
+Word;ingle;Count;2
+Word;germanizing;Count;1
+Word;temporals;Count;2
+cpm;194;wpm;38;correctChars;97;wrongChars;17
+Played;6/11/2024 8:21:43 PM
+Letter;a;Count;2;Finger;left Pinky
+Letter;i;Count;2;Finger;right RingFinger
+Letter;m;Count;1;Finger;right Pinky
+Letter;s;Count;1;Finger;left RingFinger
+Letter;h;Count;1;Finger;right Pinky
+Letter;r;Count;2;Finger;left IndexFinger
+Letter;n;Count;1;Finger;right Pinky
+Letter;t;Count;1;Finger;left IndexFinger
+Letter;l;Count;1;Finger;right MiddleFinger
+Letter;e;Count;1;Finger;left MiddleFinger
+Word;ageist;Count;2
+Word;egocentrisms;Count;2
+Word;limericks;Count;1
+Word;venting;Count;3
+Word;movables;Count;1
+Word;ingrained;Count;2
+Word;prefreezes;Count;2
+cpm;268;wpm;53;correctChars;134;wrongChars;13
+Played;6/11/2024 8:22:17 PM
+Letter;q;Count;1;Finger;left Pinky
+Letter;c;Count;1;Finger;left MiddleFinger
+Letter;e;Count;3;Finger;left MiddleFinger
+Letter;a;Count;3;Finger;left Pinky
+Letter;g;Count;1;Finger;left IndexFinger
+Letter;u;Count;1;Finger;right Pinky
+Letter;b;Count;1;Finger;left IndexFinger
+Letter;r;Count;1;Finger;left IndexFinger
+Letter;w;Count;1;Finger;left RingFinger
+Letter;i;Count;1;Finger;right RingFinger
+Word;defaced;Count;3
+Word;defund;Count;2
+Word;veristic;Count;1
+Word;trawlermen;Count;5
+Word;canines;Count;2
+cpm;242;wpm;48;correctChars;121;wrongChars;14
+Played;6/11/2024 8:22:49 PM
+Letter;r;Count;1;Finger;left IndexFinger
+Letter;i;Count;2;Finger;right RingFinger
+Letter;t;Count;1;Finger;left IndexFinger
+Letter;o;Count;4;Finger;right MiddleFinger
+Letter;u;Count;1;Finger;right Pinky
+Letter;k;Count;1;Finger;right RingFinger
+Letter; ;Count;1;Finger;Thumbs
+Letter;a;Count;2;Finger;left Pinky
+Letter;g;Count;2;Finger;left IndexFinger
+Letter;n;Count;2;Finger;right Pinky
+Letter;f;Count;1;Finger;left IndexFinger
+Letter;p;Count;1;Finger;right IndexFinger
+Letter;s;Count;2;Finger;left RingFinger
+Word;colonisation;Count;5
+Word;libel;Count;1
+Word;exsanguination;Count;2
+Word;evocation;Count;2
+Word;changeups;Count;7
+Word;futhork;Count;2
+cpm;194;wpm;38;correctChars;97;wrongChars;21
+Played;6/11/2024 8:23:23 PM
+Letter;e;Count;1;Finger;left MiddleFinger
+Letter;i;Count;3;Finger;right RingFinger
+Letter;r;Count;1;Finger;left IndexFinger
+Letter;t;Count;1;Finger;left IndexFinger
+Letter;s;Count;1;Finger;left RingFinger
+Letter;u;Count;1;Finger;right Pinky
+Word;constrictive;Count;3
+Word;anthologizing;Count;1
+Word;shiviti;Count;1
+Word;pluralizing;Count;2
+cpm;254;wpm;50;correctChars;127;wrongChars;8
+Played;6/12/2024 4:48:56 PM
+Letter;u;Count;1;Finger;right Pinky
+Letter;m;Count;2;Finger;right Pinky
+Letter;i;Count;1;Finger;right RingFinger
+Letter;c;Count;1;Finger;left MiddleFinger
+Letter;r;Count;3;Finger;left IndexFinger
+Letter;b;Count;2;Finger;left IndexFinger
+Letter;e;Count;3;Finger;left MiddleFinger
+Letter;a;Count;1;Finger;left Pinky
+Letter;t;Count;1;Finger;left IndexFinger
+Letter;d;Count;2;Finger;left MiddleFinger
+Word;commutable;Count;3
+Word;antiparticles;Count;2
+Word;citizen;Count;1
+Word;newsbeat;Count;4
+Word;committable;Count;1
+Word;separatist;Count;2
+Word;smoothened;Count;2
+cpm;242;wpm;48;correctChars;121;wrongChars;17
+Played;6/13/2024 1:00:09 PM
+Letter;g;Count;2;Finger;left IndexFinger
+Letter;r;Count;1;Finger;left IndexFinger
+Letter;o;Count;3;Finger;right MiddleFinger
+Letter;u;Count;1;Finger;right Pinky
+Letter;k;Count;1;Finger;right RingFinger
+Letter;e;Count;1;Finger;left MiddleFinger
+Letter;f;Count;1;Finger;left IndexFinger
+Letter;i;Count;1;Finger;right RingFinger
+Word;superegoist;Count;2
+Word;precognition;Count;1
+Word;gault;Count;1
+Word;apotheces;Count;1
+Word;embezzler;Count;2
+Word;regrowing;Count;4
+cpm;246;wpm;49;correctChars;123;wrongChars;11
+Played;6/13/2024 1:12:12 PM
+Letter; ;Count;1;Finger;Thumbs
+Letter;s;Count;1;Finger;left RingFinger
+Letter;h;Count;2;Finger;right Pinky
+Letter;j;Count;1;Finger;right Pinky
+Letter;p;Count;1;Finger;right IndexFinger
+Letter;k;Count;1;Finger;right RingFinger
+Letter;o;Count;1;Finger;right MiddleFinger
+Letter;c;Count;1;Finger;left MiddleFinger
+Word;kelt;Count;1
+Word;spherier;Count;1
+Word;saprophytically;Count;2
+Word;overhaul;Count;1
+Word;bookworm;Count;1
+Word;grandifloras;Count;1
+Word;overarching;Count;2
+cpm;244;wpm;48;correctChars;122;wrongChars;9
+Played;6/13/2024 1:48:25 PM
+Letter;m;Count;1;Finger;right Pinky
+Letter;r;Count;1;Finger;left IndexFinger
+Word;disparatenesses;Count;1
+Word;champagnes;Count;1
+cpm;284;wpm;56;correctChars;142;wrongChars;2
+Played;6/13/2024 1:50:46 PM
+Letter;a;Count;1;Finger;left Pinky
+Letter;r;Count;1;Finger;left IndexFinger
+Letter;d;Count;1;Finger;left MiddleFinger
+Letter;h;Count;1;Finger;right Pinky
+Letter; ;Count;1;Finger;Thumbs
+Word;rebels;Count;1
+Word;devitrifies;Count;1
+Word;pruners;Count;1
+Word;taphouses;Count;1
+Word;mycologists;Count;1
+cpm;296;wpm;59;correctChars;148;wrongChars;5
+Played;6/13/2024 1:59:03 PM
+Letter;n;Count;1;Finger;right Pinky
+Letter;b;Count;1;Finger;left IndexFinger
+Letter;u;Count;1;Finger;right Pinky
+Letter;e;Count;2;Finger;left MiddleFinger
+Letter;a;Count;1;Finger;left Pinky
+Word;prepubis;Count;2
+Word;sheqalim;Count;1
+Word;divinises;Count;1
+Word;squabby;Count;1
+Word;injectants;Count;1
+cpm;274;wpm;54;correctChars;137;wrongChars;6
+Played;7/11/2024 10:10:56 AM
+Letter;e;Count;3;Finger;left MiddleFinger
+Letter;r;Count;2;Finger;left IndexFinger
+Letter;n;Count;1;Finger;right Pinky
+Letter;s;Count;1;Finger;left RingFinger
+Word;dysmenorrhea;Count;1
+Word;moorhens;Count;2
+Word;unsportsmanlike;Count;1
+Word;terribly;Count;2
+cpm;244;wpm;48;correctChars;122;wrongChars;7
